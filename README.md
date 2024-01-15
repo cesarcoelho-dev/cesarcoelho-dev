@@ -1,6 +1,6 @@
 ### Hey, I'm César Coelho 🚀
 
-<img src="img/octocat-1697297297638.png" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="octocat-1705360893933.png" min-width="400px" max-width="300px" width="300px" align="right">
 
 - I've put this together because many ANSWERS to common and repetitive QUESTIONS can now be found in a simple documentation.
 - I've also grown tired of developers using "copy/paste" for readmes, pretending they know how to code. So, I'm demonstrating how to embrace creativity.
