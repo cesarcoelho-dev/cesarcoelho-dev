@@ -1,4 +1,4 @@
-![image](https://github.com/cesarcoelho-dev/cesarcoelho-dev/assets/156677822/c45fab48-7d43-4456-a3a4-2319a82f33c5)### Hey, I'm César Coelho 🚀
+### Hey, I'm César Coelho 🚀
 
 <img src="octocat-1705360893933.png" min-width="400px" max-width="300px" width="300px" align="right">
 
