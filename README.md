@@ -1,4 +1,4 @@
-### Hey, I'm César Coelho 🚀
+![image](https://github.com/cesarcoelho-dev/cesarcoelho-dev/assets/156677822/c45fab48-7d43-4456-a3a4-2319a82f33c5)### Hey, I'm César Coelho 🚀
 
 <img src="octocat-1705360893933.png" min-width="400px" max-width="300px" width="300px" align="right">
 
@@ -15,6 +15,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="30" width="30" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
 
 ##
   
