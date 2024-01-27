@@ -57,7 +57,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-    languages = [ "JAVASCRIPT", "NODE", "PHP" ];
+    languages = [ "JAVASCRIPT", "NODE", "PHP", "C#" ];
     databases  = [ "MYSQL" ];
     frameworks = [ "TYPESCRIPT", "NEXT", "REACT", "LARAVEL" ];
     others = [ "AWS", "TAILWILD", "GITHUB", "NPM", "GIT", ];
